@@ -51,30 +51,6 @@ else:
     print("you have entered wrong number")
 
 
-
-# list_player_len_usr = len(list_player)
-# if list_player_len_usr > names_player_1:
-#     print("computer won the game")
-# elif list_player_len_usr < names_player_1:
-#     print("user won the game")
-# elif list_player_len_usr == names_player_1:
-#     print("Draw the match")
-# else:
-#     print("Restart The Game")
-
-
-    
-# rock = scissors
-# scissors = Papper
-# Papper = rock
-
-
-# if computer_choice == 0:
-#     print("Rock")
-# elif computer_choice == 1:
-#     print("Papper")
-# elif computer_choice == 2:
-#     print("Scissors")
 # else:
 #     print("none")
 
