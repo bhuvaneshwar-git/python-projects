@@ -50,7 +50,3 @@ elif int_player < player:
 else:
     print("you have entered wrong number")
 
-
-# else:
-#     print("none")
-
