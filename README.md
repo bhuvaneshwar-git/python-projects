@@ -18,7 +18,6 @@ Generates strong random passwords with customizable lengths.
 ### 6. ✊🖐✌ Rock, Paper, Scissors
 Classic game against the computer with win/loss logic.
 
----
 
 ## 🛠️ How to Run
 
